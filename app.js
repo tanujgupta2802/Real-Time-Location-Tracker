@@ -38,7 +38,7 @@ io.on("connection", (socket) => {
   });
 });
 
-app.get("/api/hello", (req, res) => {
+app.get("/", (req, res) => {
   res.render("index");
 });
 
