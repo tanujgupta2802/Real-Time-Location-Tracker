@@ -25,7 +25,7 @@ A real-time multi-user location tracking system built with **Node.js**, **Socket
 
 ## 🌐 Live Demo
 
-> https://real-time-location-tracker-02.onrender.com/
+> https://real-time-location-tracker-2-qj0h.onrender.com/
 
 ---
 
