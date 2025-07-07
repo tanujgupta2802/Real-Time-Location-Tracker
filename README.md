@@ -6,11 +6,11 @@ A real-time multi-user location tracking system built with **Node.js**, **Socket
 
 ## 🚀 Features
 
-- 🔁 Real-time location sharing using **WebSockets**
-- 🧭 Interactive map integration with **Leaflet.js**
-- 👥 Multiple user markers with unique Socket IDs
-- 🔌 Auto removal of markers on user disconnect
-- 🖥️ Built using **Node.js**, **Express**, **EJS**, and **Socket.IO**
+-  Real-time location sharing using **WebSockets**
+-  Interactive map integration with **Leaflet.js**
+-  Multiple user markers with unique Socket IDs
+-  Auto removal of markers on user disconnect
+-  Built using **Node.js**, **Express**, **EJS**, and **Socket.IO**
 
 ---
 
@@ -25,8 +25,7 @@ A real-time multi-user location tracking system built with **Node.js**, **Socket
 
 ## 🌐 Live Demo
 
-> *(Add when deployed)*  
-> [🔗 Visit Live Site](https://your-deployed-url.com)
+> https://real-time-location-tracker-02.onrender.com/
 
 ---
 
@@ -67,21 +66,15 @@ A real-time multi-user location tracking system built with **Node.js**, **Socket
 
 4. **Open in browser:**
    ```
-   http://localhost:3000/api/hello
+   http://localhost:3000/
    ```
 
-✅ Open in **multiple tabs** or devices to see real-time updates.
+ Open in **multiple tabs** or devices to see real-time updates.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙋‍♂️ Author
+## Author
 
 **Tanuj Gupta**  
-📧 your-email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📧 tanujg2802@gmail.com  
+
